@@ -13,9 +13,12 @@ A script running plugin for the [MeshCentral2](https://github.com/Ylianst/MeshCe
 >     },
 Restart your MeshCentral server after making this change.
 
- To install, simply add the plugin configuration URL when prompted:
- `https://raw.githubusercontent.com/ryanblenis/MeshCentral-ScriptTask/master/config.json`
-
+ To install
+- Go to Server > Plugins > Download Plugin
+- Paste the URL below and click OK
+- `https://raw.githubusercontent.com/ryanblenis/MeshCentral-ScriptTask/master/config.json`
+- Go to Action dropdown and select Install
+ 
 ## Features
 - Add scripts to a central store
 - Run scripts on single or multiple endpoints simultaneously
